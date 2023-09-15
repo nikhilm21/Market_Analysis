@@ -30,8 +30,7 @@ Explore market trends and insights with this repository. Here's how you can get 
    ```shell
    git clone https://github.com/nikhilm21/Market_Analysis.git
    cd Market_Analysis
-
-
+   
 2. **Run the Code**:
 
     You can run the code cells in the notebooks to interact with the data, generate visualizations, and explore market statistics.
